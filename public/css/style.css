@@ -1,0 +1,17 @@
+body {
+    background-color: #2f3640;
+    font-family: fantasy;
+    color: rgb(209, 187, 146);
+}
+
+/*header and title styles */
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    word-spacing: 5px;
+}
+
+.container-d{
+    text-align: center;
+}
