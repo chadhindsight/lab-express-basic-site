@@ -17,8 +17,8 @@ app.get('/gallery', function (req, res) {
     res.render('gallery.ejs')
 })
 
-app.get('/work', function (req, res) {
-    res.render('work.ejs')
+app.get('/works', function (req, res) {
+    res.render('works.ejs')
 })
 
 app.get('/about', function (req, res) {
